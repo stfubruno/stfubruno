@@ -14,4 +14,4 @@ I excel as a full stack developer, proficient in crafting high-performance code.
 * Network Programming
 * Multi-Threaded Environments
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=stfubruno&show_icons=true&theme=radical)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=stfubruno&show_icons=true&theme=city_lights)
